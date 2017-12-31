@@ -1,3 +1,5 @@
+# Trity is no longer being updated or supported as I am coming up with a new tool that will be much better then Trity, with all the same modules and more.
+
 # Trity
 Trity is an advanced pentesting framework dedicated to everything from vulnerability testing to cryptography.
 
