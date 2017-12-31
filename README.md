@@ -14,6 +14,7 @@ First, `git clone`.
 Change directory, and then run the installer script (Must be root or have superuser permissions):
 
     cd path/Trity
+    chmod +x install.py
     sudo python install.py
 
 The `install.py` script will install of the necessary dependencies for you. Other platforms will be supported in the future.
