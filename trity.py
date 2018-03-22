@@ -37,7 +37,7 @@ try:
     import requests
     import pythonwhois
     import argparse
-    import googlesearch
+    from googlesearch import search
 except ImportError as e:
     print (color.UNDERLINE + "\033[91m" + "You don't have some modules installed! \nPlease run install.py to install this tool fully! " + color.END)
     print "Error: {}".format(e)
